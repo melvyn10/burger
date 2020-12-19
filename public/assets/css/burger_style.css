@@ -1,0 +1,39 @@
+body {
+	background-color: wheat;
+}
+
+h1 {
+	text-align: center;
+}
+
+li {
+	padding: 5px;
+	margin: 5px;
+	background: lightgrey;
+}
+
+.label {
+	font-weight: bold;
+	}
+
+.create-update-form {
+	padding: 5px;
+	margin: 5px;
+	background: yellow;
+	}
+
+.form-group {
+	margin-bottom: 5px;
+	}
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.column {
+	float: left;
+	width: 45%;
+	padding: 10px;
+}
