@@ -36,7 +36,7 @@ To test, goto you favorite browser and type localhost:8080
 
 
 
-![Alt Text](https://github.com/melvyn10/employee_tracker/blob/main/images/image1.png)
+![Alt Text](https://github.com/melvyn10/burger/blob/main/public/assets/img/Burger-Screen-01.png)
 
 
 
