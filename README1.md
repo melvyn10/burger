@@ -1,2 +1,0 @@
-# burger
-burger eating app
